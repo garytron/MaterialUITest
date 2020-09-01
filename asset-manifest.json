@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wamp64/www/personalpage/build/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/wamp64/www/personalpage/build/static/js/main.21007ffc.chunk.js",
-    "main.js.map": "/wamp64/www/personalpage/build/static/js/main.21007ffc.chunk.js.map",
-    "runtime-main.js": "/wamp64/www/personalpage/build/static/js/runtime-main.eeaac322.js",
-    "runtime-main.js.map": "/wamp64/www/personalpage/build/static/js/runtime-main.eeaac322.js.map",
-    "static/js/2.d57afaba.chunk.js": "/wamp64/www/personalpage/build/static/js/2.d57afaba.chunk.js",
-    "static/js/2.d57afaba.chunk.js.map": "/wamp64/www/personalpage/build/static/js/2.d57afaba.chunk.js.map",
-    "index.html": "/wamp64/www/personalpage/build/index.html",
-    "precache-manifest.6df35e71456dd56453829e8f1b69aa9f.js": "/wamp64/www/personalpage/build/precache-manifest.6df35e71456dd56453829e8f1b69aa9f.js",
-    "service-worker.js": "/wamp64/www/personalpage/build/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/wamp64/www/personalpage/build/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.d57afaba.chunk.js.LICENSE.txt": "/wamp64/www/personalpage/build/static/js/2.d57afaba.chunk.js.LICENSE.txt"
+    "main.css": "/MaterialUITest/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/MaterialUITest/static/js/main.d50f3839.chunk.js",
+    "main.js.map": "/MaterialUITest/static/js/main.d50f3839.chunk.js.map",
+    "runtime-main.js": "/MaterialUITest/static/js/runtime-main.2ed6266b.js",
+    "runtime-main.js.map": "/MaterialUITest/static/js/runtime-main.2ed6266b.js.map",
+    "static/js/2.d57afaba.chunk.js": "/MaterialUITest/static/js/2.d57afaba.chunk.js",
+    "static/js/2.d57afaba.chunk.js.map": "/MaterialUITest/static/js/2.d57afaba.chunk.js.map",
+    "index.html": "/MaterialUITest/index.html",
+    "precache-manifest.ac83827f2dbd37eb1c20e154bcc73e05.js": "/MaterialUITest/precache-manifest.ac83827f2dbd37eb1c20e154bcc73e05.js",
+    "service-worker.js": "/MaterialUITest/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/MaterialUITest/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d57afaba.chunk.js.LICENSE.txt": "/MaterialUITest/static/js/2.d57afaba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eeaac322.js",
+    "static/js/runtime-main.2ed6266b.js",
     "static/js/2.d57afaba.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.21007ffc.chunk.js"
+    "static/js/main.d50f3839.chunk.js"
   ]
 }
